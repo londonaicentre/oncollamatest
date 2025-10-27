@@ -1,0 +1,5 @@
+dearpygui
+python-dotenv
+requests
+openpipe
+git+https://github.com/londonaicentre/oncollamaschemav3.git
