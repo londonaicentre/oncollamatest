@@ -7,21 +7,21 @@ from oncollamaschemav3.prompt import create_system_prompt
 
 """
 utils.py - supporting functions for backend operations (API, data processing)
-
-Currently hard-coded to openpipe serverless deployment
-Can refactor for additional LLM client compatibility (e.g. Bedrock)
 """
 
 def load_env_vars():
     load_dotenv()
-    api_key = os.getenv("OPENPIPE_API_KEY")
-    model = os.getenv("OPENPIPE_MODEL")
-    return api_key, model
+    api_key = os.getenv("API_KEY")
+    model = os.getenv("MODEL")
+    base_url = os.getenv("BASE_URL", None)
+    return api_key, model, base_url
 
+def get_client(api_key, base_url=None):
+    return OpenAI(api_key=api_key, base_url=base_url) if base_url else OpenAI(api_key=api_key, openpipe={"api_key": api_key})
 
-def test_connection(api_key, model):
+def test_connection(api_key, model, base_url=None):
     try:
-        client = OpenAI(openpipe={"api_key": api_key})
+        client = get_client(api_key, base_url)
         client.chat.completions.create(
             model=model,
             messages=[{"role": "user", "content": "test"}],
@@ -50,9 +50,9 @@ def extract_output_json(text):
     return text  # or return original
 
 
-def call_openpipe_api(api_key, model, user_text):
+def call_openpipe_api(api_key, model, user_text, base_url=None):
     try:
-        client = OpenAI(openpipe={"api_key": api_key})
+        client = get_client(api_key, base_url)
         system_prompt = create_system_prompt('infer_prompt.txt')
 
         completion = client.chat.completions.create(
