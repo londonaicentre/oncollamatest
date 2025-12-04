@@ -1,0 +1,54 @@
+MOLECULAR TUMOR BOARD CASE PRESENTATION
+
+PATIENT: 49F, intrahepatic cholangiocarcinoma
+
+SURGICAL PATHOLOGY (May 2024):
+Right hepatectomy for 8 cm mass segment 6/7 liver
+Diagnosis: Intrahepatic cholangiocarcinoma, moderately differentiated
+Staging: pT2 N1 M0 (3/8 regional lymph nodes positive, largest deposit 2.1 cm)
+Stage IIIB by AJCC 8th edition
+Margins: R0 resection
+Perineural invasion: Present
+Lymphovascular invasion: Present
+
+COMPREHENSIVE GENOMIC PROFILING (Foundation Medicine):
+Tumor Mutational Burden: 15 mutations/Mb (TMB-High)
+Microsatellite status: MSS
+
+ALTERATIONS DETECTED:
+1. IDH1 R132C mutation (VAF 42%) - potentially actionable
+2. FGFR2-BICC1 fusion (exon 17-exon 1) - actionable
+3. TP53 R248W mutation (VAF 38%)
+4. ARID1A truncating mutation (VAF 45%)
+5. BAP1 loss (homozygous deletion)
+6. CDKN2A/B homozygous deletion
+7. PBRM1 splice site mutation (VAF 32%)
+8. SMAD4 Q311* nonsense mutation (VAF 40%)
+9. STK11 frameshift deletion (VAF 28%)
+10. PIK3CA H1047R mutation (VAF 15%) - sub-clonal
+
+IMMUNOHISTOCHEMISTRY:
+- PD-L1 (SP263): CPS 8
+- dMMR: pMMR (intact MLH1, MSH2, MSH6, PMS2)
+
+CTDNA ANALYSIS (Guardant360, August 2024 - post-op surveillance):
+Circulating tumor DNA detected:
+- FGFR2 fusion: Detected (0.08% VAF)
+- IDH1 R132C: Detected (0.12% VAF)
+- TP53 R248W: Detected (0.09% VAF)
+Minimal residual disease present despite R0 resection.
+
+GERMLINE TESTING (Invitae):
+Pathogenic variant identified: BRCA2 c.5946delT (p.Ser1982fs) - germline
+Ashkenazi Jewish ancestry, family history: mother with ovarian cancer age 54, maternal aunt with breast cancer age 47
+
+DISCUSSION:
+Multiple actionable alterations:
+1. FGFR2 fusion: Consider pemigatinib or infigratinib (FDA approved for cholangiocarcinoma)
+2. IDH1 mutation: Ivosidenib approved for this indication
+3. TMB-High + PD-L1 CPS 8: May benefit from pembrolizumab
+4. BRCA2 germline: PARP inhibitor sensitivity possible
+5. PIK3CA: Multiple PI3K inhibitors available in trials
+
+CLINICAL DECISION:
+Given detectable ctDNA indicating high-risk MRD, recommend adjuvant therapy. Prioritize FGFR2 inhibitor (pemigatinib) given level 1 evidence in cholangiocarcinoma. Consider IDH1 inhibitor if progression. Clinical trial with PARP inhibitor + immunotherapy combination also discussed given multiple vulnerabilities.

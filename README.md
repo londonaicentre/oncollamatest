@@ -12,5 +12,7 @@ GUI for early user testing of OncoLlama V3. Uses `dearpygui`.
 
 ### Reporting Bad Outputs
 
+The `/examples` folder contains samples for testing, designed to challenge the model using ambiguous or poor data quality examples
+
 Please report any bad outputs or edge cases to the project team
 

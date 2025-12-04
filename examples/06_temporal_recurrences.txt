@@ -1,0 +1,30 @@
+ONCOLOGY PROGRESS NOTE - December 2024
+
+64F with recurrent ovarian cancer, complex treatment history.
+
+ORIGINAL DIAGNOSIS (2018):
+High-grade serous ovarian carcinoma, stage IIIC (pT3cN1M0). Total abdominal hysterectomy, bilateral salpingo-oophorectomy, omentectomy, optimal cytoreduction. Adjuvant carboplatin/paclitaxel x 6 cycles completed June 2018.
+
+FIRST RECURRENCE (March 2020):
+Peritoneal carcinomatosis on surveillance CT. CA-125 elevated to 420. Carboplatin/paclitaxel x 6 cycles, partial response. Maintenance olaparib started September 2020 (BRCA1 germline mutation positive).
+
+SECOND RECURRENCE (August 2022):
+Progression on olaparib. New liver lesions (segments 4 and 8), peritoneal nodules. Switched to pegylated liposomal doxorubicin. Stable disease for 8 months.
+
+THIRD RECURRENCE (May 2023):
+Progression with malignant ascites requiring repeated paracentesis. Switched to weekly paclitaxel. Disease control for 10 months. Developed peripheral neuropathy grade 2, treatment held.
+
+CURRENT PRESENTATION (December 2024):
+Now progressing again. PET-CT shows:
+- New bilateral pleural effusions with malignant cells on cytology
+- Progressive peritoneal disease with omental caking
+- Liver metastases increased in size (largest now 4.2 cm in segment 4)
+- New retroperitoneal lymphadenopathy (para-aortic nodes up to 3.8 cm)
+- Bone metastases: L3 vertebra, right iliac bone (new since last scan)
+CA-125: 1240 (up from 650 three months ago)
+
+Patient symptomatic: dyspnea from effusions, abdominal distension, fatigue. ECOG PS degraded to 2.
+
+QUESTION: Now platinum-resistant (progression <6 months from last platinum). Considering topotecan vs gemcitabine vs best supportive care. Patient preferences unclear. Family meeting scheduled.
+
+What is her current disease status and stage?

@@ -1,0 +1,35 @@
+CARDIOLOGY CONSULTATION NOTE
+
+PATIENT: 55-year-old male
+CHIEF COMPLAINT: Chest pain and dyspnea on exertion
+
+HISTORY OF PRESENT ILLNESS:
+Patient presents with 6-month history of progressive exertional chest discomfort and shortness of breath. No rest pain. Risk factors include hypertension, hyperlipidemia, former smoker (quit 10 years ago, 30 pack-year history).
+
+CARDIAC WORKUP:
+- Stress test: Positive for inducible ischemia at 85% maximum predicted heart rate
+- Coronary angiography (November 2024): Severe triple vessel disease
+  * 90% stenosis of proximal LAD
+  * 85% stenosis of mid-RCA
+  * 70% stenosis of proximal LCx
+- Echocardiogram: Preserved ejection fraction (55%), mild diastolic dysfunction
+- Cardiac biomarkers: Troponin negative, BNP mildly elevated at 180 pg/mL
+
+PAST MEDICAL HISTORY:
+- Hypertension (on lisinopril, metoprolol)
+- Hyperlipidemia (on atorvastatin)
+- Type 2 diabetes mellitus (HbA1c 7.1%, on metformin)
+- Benign prostatic hyperplasia
+
+FAMILY HISTORY: Father died of myocardial infarction at age 62. Brother with coronary artery disease.
+
+ASSESSMENT:
+Symptomatic severe triple vessel coronary artery disease without evidence of acute coronary syndrome. High-risk anatomy requiring revascularization.
+
+PLAN:
+1. Referral to cardiac surgery for CABG evaluation
+2. Continue dual antiplatelet therapy (aspirin + clopidogrel)
+3. Optimize medical therapy
+4. Cardiac rehabilitation post-operatively
+
+This is a cardiovascular case requiring surgical intervention.

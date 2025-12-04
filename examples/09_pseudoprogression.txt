@@ -1,0 +1,48 @@
+RADIOLOGY CONSULT - ONCOLOGY IMAGING DILEMMA
+
+PATIENT: 61M with metastatic melanoma on immunotherapy
+
+CLINICAL CONTEXT:
+Stage IV melanoma (BRAF V600E mutant) diagnosed April 2024. Initially treated with dabrafenib/trametinib (BRAF/MEK inhibitor combo) but progressed after 4 months with new brain metastases.
+
+Switched to pembrolizumab (anti-PD-1) monotherapy in September 2024. Treatment initiated given progression on targeted therapy.
+
+BASELINE IMAGING (September 2024 - pre-immunotherapy):
+- Brain MRI: 3 parenchymal metastases (largest 1.8 cm right frontal lobe)
+- CT chest: Multiple bilateral lung nodules, largest 2.2 cm RUL
+- CT abdomen: Liver metastases x 4, largest 3.1 cm segment 8
+- LDH: 520 U/L
+
+FOLLOW-UP IMAGING (November 2024 - after 4 cycles pembrolizumab):
+- Brain MRI: Right frontal lesion INCREASED to 2.6 cm with surrounding edema. Two other lesions stable.
+- CT chest: Lung nodules INCREASED in size and NUMBER. New nodules appeared. Largest now 3.4 cm RUL.
+- CT abdomen: Liver lesions appear LARGER, largest now 4.2 cm with irregular enhancement. Perilesional inflammatory changes noted.
+- LDH: 380 U/L (DECREASED from baseline)
+
+RADIOLOGY IMPRESSION: "Concerning for disease progression"
+
+CLINICAL ASSESSMENT - CONFUSING PICTURE:
+Patient feels BETTER clinically:
+- Improved energy levels
+- Weight stable (previously losing)
+- No new neurological symptoms despite larger brain lesion
+- Skin exam: Two subcutaneous nodules that were present at baseline now SOFTER and less palpable
+
+Discordance between imaging (showing progression) and clinical status (improving) + biochemical response (LDH decreasing).
+
+DIAGNOSTIC UNCERTAINTY:
+Is this true progression or pseudoprogression/inflammatory response to immunotherapy?
+- Timing: 8-10 weeks after starting immunotherapy is classic for pseudoprogression
+- Clinical improvement contradicts radiographic worsening
+- LDH improvement suggests tumor burden reduction despite size increase
+- Perilesional inflammation on imaging suggests immune infiltration
+
+MANAGEMENT DILEMMA:
+Options:
+1. Continue pembrolizumab through apparent progression (per iRECIST criteria)
+2. Obtain tissue biopsy of enlarging lesion to distinguish viable tumor vs inflammation/necrosis
+3. Repeat imaging in 4-6 weeks to assess trajectory
+4. Add ipilimumab (CTLA-4 inhibitor) to pembrolizumab for combination immunotherapy
+5. Switch to alternative therapy
+
+Tumor board recommendation: Continue pembrolizumab, repeat imaging 6 weeks, biopsy if continued growth.

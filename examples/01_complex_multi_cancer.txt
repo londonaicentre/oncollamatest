@@ -1,0 +1,19 @@
+PATIENT: 67-year-old male
+DATE: December 2024
+
+HISTORY OF PRESENT ILLNESS:
+Patient presents with synchronous malignancies. Originally diagnosed with stage IIA (pT3N0M0) adenocarcinoma of the sigmoid colon in March 2023, status post left hemicolectomy with clear margins (R0 resection). Received adjuvant FOLFOX chemotherapy, completed August 2023.
+
+During surveillance imaging in October 2024, incidental finding of 3.2 cm right upper lobe lung mass on CT chest. PET-CT demonstrated FDG-avid lung lesion (SUVmax 8.4) with mediastinal lymphadenopathy (station 4R, SUVmax 5.2). No evidence of colorectal recurrence. Biopsy of lung mass revealed poorly differentiated adenocarcinoma, TTF-1 positive, CK7 positive, CK20 negative, consistent with primary lung adenocarcinoma. EGFR wild-type, ALK negative, PD-L1 TPS 65%.
+
+Additionally, recent diagnosis of low-grade (Gleason 3+3=6) prostate adenocarcinoma detected on screening PSA (6.8 ng/mL), 2 of 12 cores positive, <5% involvement. MRI prostate shows T2 disease confined to gland. Currently on active surveillance for prostate cancer.
+
+CURRENT STATUS:
+1. Colorectal adenocarcinoma - stage IIA, disease-free at 20 months post-treatment
+2. Lung adenocarcinoma - stage IIIA (cT2aN2M0) based on PET-CT, biopsy confirmed
+3. Prostate adenocarcinoma - stage T2a, Gleason 3+3=6, low risk, active surveillance
+
+PLAN:
+- Lung cancer: Concurrent chemoradiation followed by durvalumab consolidation
+- Prostate: Continue active surveillance with PSA monitoring
+- Continue surveillance for colorectal cancer recurrence

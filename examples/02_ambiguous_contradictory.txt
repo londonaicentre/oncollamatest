@@ -1,0 +1,32 @@
+PATIENT: 58-year-old female
+CONSULTATION NOTE - ONCOLOGY
+
+CHIEF COMPLAINT: Conflicting staging information for breast cancer
+
+HISTORY:
+Patient diagnosed with invasive ductal carcinoma of the right breast in July 2024. Lumpectomy performed with 2.8 cm tumor. Surgical pathology report indicates:
+- Tumor size: 2.8 cm (pT2)
+- Grade: Nottingham grade 2 (3+2+2=7)
+- Margins: Negative, closest margin 3mm
+- Sentinel lymph nodes: 1 of 3 positive for metastasis (pN1)
+- ER positive (85%), PR positive (70%), HER2 equivocal (2+ by IHC)
+
+However, radiology report from pre-operative MRI described tumor as 4.1 cm with possible chest wall involvement, suggesting T4 disease. Discrepancy noted between imaging and pathologic size.
+
+HER2 FISH testing ordered due to equivocal IHC - results pending. Patient anxious about conflicting reports regarding tumor size and extent.
+
+IMAGING REVIEW:
+- Pre-op MRI (June 2024): 4.1 cm irregular enhancing mass, possible pectoralis invasion
+- Post-op mammogram: No residual enhancement
+- PET-CT (August 2024): No evidence of distant metastases, but report mentions "suspicious uptake in right axillary region, unclear if post-surgical change versus residual disease"
+
+CLINICAL ASSESSMENT:
+Staging remains uncertain due to:
+1. Size discrepancy: pathologic 2.8 cm vs imaging 4.1 cm
+2. Chest wall involvement unclear - surgery notes state "negative deep margin" but MRI suggested possible invasion
+3. Axillary PET uptake - unclear significance
+4. HER2 status pending FISH confirmation
+
+PROVISIONAL STAGING: Either pT2N1M0 (Stage IIA) or pT4N1M0 (Stage IIIB) pending clarification
+
+PLAN: Multidisciplinary tumor board review recommended to reconcile staging discrepancies before finalizing treatment plan.

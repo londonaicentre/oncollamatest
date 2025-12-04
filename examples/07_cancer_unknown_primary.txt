@@ -1,0 +1,40 @@
+MEDICAL ONCOLOGY CONSULTATION
+
+62-year-old male, former smoker, presents with metastatic adenocarcinoma, primary site unknown.
+
+Patient developed progressive right neck swelling over 3 months. CT neck revealed 4.5 cm right level III lymph node mass. FNA showed metastatic adenocarcinoma. Clinical examination unremarkable, no obvious primary lesion identified.
+
+Extensive imaging to locate primary:
+- PET-CT whole body: Multiple FDG-avid nodes (cervical bilateral, mediastinal, retroperitoneal). No obvious primary tumor identified. Largest node right neck 4.5 cm, SUVmax 12.3
+- Upper endoscopy with biopsies: Normal, no gastric or esophageal lesions
+- Colonoscopy: Benign polyps removed, no malignancy
+- Bronchoscopy: Normal airways, random biopsies negative
+- CT chest/abdomen/pelvis with contrast: No lung mass, no renal/pancreatic mass
+- Testicular ultrasound: Normal
+- Serum tumor markers: CEA 85 (elevated), AFP normal, beta-HCG normal, PSA 1.2 (normal)
+
+cervical node:
+Metastatic moderately differentiated adenocarcinoma
+IHC profile:
+- CK7 positive (diffuse)
+- CK20 negative
+- TTF-1 negative
+- Napsin-A negative
+- CDX2 negative (rules out lower GI)
+- Gata-3 negative
+- PAX-8 negative (rules out renal/ovarian)
+- p40 negative
+- Chromogranin negative
+
+This immunoprofile does not clearly point to a specific primary site. Pattern most consistent with pancreatobiliary or upper GI origin, but no lesion visualized despite thorough imaging.
+
+NGS panel performed:
+- KRAS G12D mutation detected
+- TP53 mutation
+- No actionable alterations (EGFR, ALK, ROS1, BRAF, HER2 negative)
+- MSI-stable, TMB-low (3 mutations/Mb)
+
+DIAGNOSIS: Adenocarcinoma of unknown primary (CUP), unfavorable subset
+Stage: IV (metastatic nodal disease)
+
+PLAN: Empiric chemotherapy with carboplatin/paclitaxel or modified FOLFIRINOX. Patient counseled regarding uncertainties in treatment given unknown primary.

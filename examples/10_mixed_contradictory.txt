@@ -1,0 +1,61 @@
+PATHOLOGY DISCORDANCE CASE - SECOND OPINION REQUESTED
+
+PATIENT: 68F with lung mass, conflicting biopsy results
+
+CLINICAL PRESENTATION:
+4.2 cm right lower lobe lung mass identified on screening CT. FDG-avid on PET (SUVmax 14.5). Patient asymptomatic. Heavy smoking history (45 pack-years, quit 5 years ago).
+
+INITIAL BIOPSY #1 (CT-guided core biopsy, October 2024):
+DIAGNOSIS: Small cell carcinoma
+- Tumor cells with high N/C ratio, nuclear molding, salt-and-pepper chromatin
+- Extensive necrosis present
+- Immunohistochemistry:
+  * Synaptophysin: Positive (diffuse)
+  * Chromogranin: Positive (focal)
+  * TTF-1: Positive
+  * CD56: Positive
+  * Ki-67: 90%
+PATHOLOGIST INTERPRETATION: "Consistent with small cell lung carcinoma (SCLC). Recommend limited vs extensive stage workup."
+
+REPEAT BIOPSY #2 (Bronchoscopy with endobronchial biopsy, November 2024):
+Performed due to clinical concern for sampling error (limited tissue in first biopsy)
+
+DIAGNOSIS: Poorly differentiated adenocarcinoma with neuroendocrine features
+- Glandular architecture visible in areas
+- Some areas with neuroendocrine morphology
+- Immunohistochemistry (repeated):
+  * TTF-1: Positive (diffuse)
+  * Napsin-A: Positive (focal - not seen in typical SCLC)
+  * Synaptophysin: Positive
+  * Chromogranin: Negative
+  * CK7: Positive
+  * p40: Negative
+  * Ki-67: 60% (lower than initial biopsy)
+
+PATHOLOGIST INTERPRETATION: "Favor adenocarcinoma with neuroendocrine differentiation rather than pure SCLC. Napsin-A positivity supports adenocarcinoma. Consider large cell neuroendocrine carcinoma (LCNEC) in differential."
+
+MOLECULAR TESTING (from second biopsy):
+- EGFR: Exon 19 deletion detected
+- ALK: Negative
+- ROS1: Negative
+- PD-L1: TPS 5%
+
+DIAGNOSTIC DILEMMA:
+Two biopsies from same mass showing different results:
+1. First biopsy: Small cell carcinoma phenotype
+2. Second biopsy: Adenocarcinoma with neuroendocrine features + EGFR mutation
+
+Possibilities:
+A) Combined SCLC-NSCLC (mixed histology) - rare but documented
+B) Sampling variation - different areas of heterogeneous tumor
+C) Adenocarcinoma with extensive neuroendocrine differentiation mimicking SCLC
+D) LCNEC misclassified initially as SCLC
+
+CLINICAL SIGNIFICANCE:
+Treatment implications dramatically different:
+- If SCLC: Platinum/etoposide chemotherapy, prophylactic cranial irradiation
+- If EGFR+ adenocarcinoma: Osimertinib targeted therapy (much better prognosis)
+- If LCNEC: Surgical resection if operable, or platinum-based chemotherapy
+
+RECOMMENDATION:
+Surgical resection planned to obtain definitive histology and guide adjuvant therapy. Intraoperative frozen section to be performed. Final pathology will determine post-operative management.
