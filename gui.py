@@ -10,6 +10,7 @@ class OpenPipeGUI:
     def __init__(self):
         self.api_key = None
         self.model = None
+        self.base_url = None
         self.connected = False
 
     def parse_escape_sequences(self, text):
@@ -26,7 +27,7 @@ class OpenPipeGUI:
         Initialise GUI, test API connection
         """
         # for api keys
-        self.api_key, self.model = load_env_vars()
+        self.api_key, self.model, self.base_url = load_env_vars()
 
         if not self.api_key or not self.model:
             dpg.set_value("status_text", "Error: Missing API key or model in .env")
@@ -34,7 +35,7 @@ class OpenPipeGUI:
             return
 
         dpg.set_value("status_text", "Testing connection...")
-        success, message = test_connection(self.api_key, self.model)
+        success, message = test_connection(self.api_key, self.model, self.base_url)
 
         self.connected = success
         dpg.set_value("status_text", message)
@@ -67,7 +68,7 @@ class OpenPipeGUI:
         dpg.configure_item("infer_button", enabled=False)
 
         # call API
-        success, result = call_openpipe_api(self.api_key, self.model, input_text)
+        success, result = call_openpipe_api(self.api_key, self.model, input_text, self.base_url)
 
         dpg.set_value("output_text", result)
         dpg.configure_item("infer_button", enabled=True)
