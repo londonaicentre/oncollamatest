@@ -1,22 +1,31 @@
-import os
-import json
-import re
-from dotenv import load_dotenv
-from openpipe import OpenAI
-from oncollamaschemav3.prompt import create_system_prompt
-
 """
 utils.py - supporting functions for backend operations (API, data processing)
 
 Currently hard-coded to openpipe serverless deployment
 Can refactor for additional LLM client compatibility (e.g. Bedrock)
+Endpoints defined in endpoints.yaml 
 """
+
+import os
+import json
+import re
+import yaml
+from dotenv import load_dotenv
+from openpipe import OpenAI
+from oncollamaschemav3.prompt import create_system_prompt
 
 def load_env_vars():
     load_dotenv()
-    api_key = os.getenv("OPENPIPE_API_KEY")
-    model = os.getenv("OPENPIPE_MODEL")
-    return api_key, model
+    return os.getenv("OPENPIPE_API_KEY")
+
+
+def load_endpoints():
+    try:
+        with open('endpoints.yaml', 'r') as f:
+            config = yaml.safe_load(f)
+            return config.get('endpoints', [])
+    except:
+        return []
 
 
 def test_connection(api_key, model):

@@ -1,3 +1,7 @@
+"""
+main.py - Entrypoint
+"""
+
 from gui import OpenPipeGUI
 
 
