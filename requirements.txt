@@ -2,4 +2,5 @@ dearpygui
 python-dotenv
 requests
 openpipe
+pyyaml
 git+https://github.com/londonaicentre/oncollamaschemav3.git
